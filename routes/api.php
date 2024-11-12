@@ -16,3 +16,4 @@ Route::apiResource('times', TimeController::class)->except(['show']);
 Route::apiResource('reservations', ReservationController::class)->except(['show']);
 Route::apiResource('fields', FieldController::class)->except(['show']);
 
+//sfg
